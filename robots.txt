@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dewahokky.github.io/sitemap.xml
